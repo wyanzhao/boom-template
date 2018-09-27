@@ -51,6 +51,7 @@ VCS_NONCC_OPTS = \
 	+define+RANDOMIZE_REG_INIT \
 	+define+RANDOMIZE_GARBAGE_ASSIGN \
 	+define+RANDOMIZE_INVALID_ASSIGN \
+	+define+RANDOMIZE_DELAY=2 \
 	+libext+.v
 
 VCS_OPTS = -notice -line $(VCS_NONCC_OPTS) $(VCS_CC_OPTS)
