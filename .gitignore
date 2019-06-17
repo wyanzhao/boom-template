@@ -4,5 +4,6 @@ target
 *.stamp
 /vsim
 /verisim
+/.vscode
 *.swp
 .idea
