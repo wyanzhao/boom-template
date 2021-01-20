@@ -3,7 +3,7 @@
 	url = https://github.com/ucb-bar/riscv-torture.git
 [submodule "rocket-chip"]
 	path = rocket-chip
-	url = git@github.com:wyanzhao/rocket-chip.git
+	url = https://github.com/wyanzhao/rocket-chip.git
 [submodule "boom"]
 	path = boom
-	url = git@github.com:wyanzhao/riscv-boom.git
+	url = https://github.com/wyanzhao/boom.git
